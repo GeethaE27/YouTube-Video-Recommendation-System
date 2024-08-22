@@ -65,6 +65,6 @@ Format: JSON
 Variables: Channel information, video metadata, tags, descriptions, views, likes, etc.
 
 **Acknowledgements**
-YouTube Data API for providing the video and channel data.
-AWS for cloud storage and database services.
-Streamlit for the web application framework.
+      1. YouTube Data API for providing the video and channel data.
+      2. AWS for cloud storage and database services.
+      3. Streamlit for the web application framework.
