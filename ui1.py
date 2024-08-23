@@ -1,4 +1,4 @@
-# import streamlit as st
+import streamlit as st
 from streamlit_lottie import st_lottie
 import requests
 import mysql.connector
@@ -30,9 +30,9 @@ else:
 
 # Database connection
 conn = mysql.connector.connect(
-    host='youtuberecommend.cn0q0qeq094x.ap-south-1.rds.amazonaws.com',
+    host='xxx',
     user='admin',
-    password='Geetha1234',
+    password='yyy',
     port='3306',
     database='Youtube'
 )
